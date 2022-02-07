@@ -1,0 +1,516 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xml:base="http://test.org/ontologi_tariJaipong.owl"
+         xmlns="http://test.org/ontologi_tariJaipong.owl#">
+
+<owl:Ontology rdf:about="http://test.org/ontologi_tariJaipong.owl"/>
+
+<owl:ObjectProperty rdf:about="#hasGerakan">
+  <rdfs:domain rdf:resource="#Tarian"/>
+  <rdfs:range rdf:resource="#Gerakan"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep">
+  <rdfs:domain rdf:resource="#Gerakan"/>
+  <rdfs:range rdf:resource="#Gerakan"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep1">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep2">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep3">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep4">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep5">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep6">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep7">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep8">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep9">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep10">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep11">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep12">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep13">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep14">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep15">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep16">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep17">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep18">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep19">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep20">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep21">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep22">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep23">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep24">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep25">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep26">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep27">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep28">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep29">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep30">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep31">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep32">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep33">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep34">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep35">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep36">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep37">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep38">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep39">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep40">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep41">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep42">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep43">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep44">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep45">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep46">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep47">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep48">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep49">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep50">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep51">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep52">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep53">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep54">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep55">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep56">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep57">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep58">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep59">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep60">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep61">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep62">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep63">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep64">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep65">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep66">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep67">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep68">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasNextStep69">
+  <rdfs:subPropertyOf rdf:resource="#hasNextStep"/>
+</owl:ObjectProperty>
+
+<owl:DatatypeProperty rdf:about="#jenis_gerakan">
+  <rdfs:domain rdf:resource="#Gerakan"/>
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+</owl:DatatypeProperty>
+
+<owl:DatatypeProperty rdf:about="#deskripsi">
+  <rdfs:domain rdf:resource="#Gerakan"/>
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+</owl:DatatypeProperty>
+
+<owl:DatatypeProperty rdf:about="#dari_sampai_waktu_ke">
+  <rdfs:domain rdf:resource="#Gerakan"/>
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+</owl:DatatypeProperty>
+
+<owl:DatatypeProperty rdf:about="#contoh_gambar">
+  <rdfs:domain rdf:resource="#Gerakan"/>
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+</owl:DatatypeProperty>
+
+<owl:Class rdf:about="#Tarian">
+  <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Gerakan">
+  <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</owl:Class>
+
+<Tarian rdf:about="#jaipong_oraywelang">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <hasGerakan rdf:resource="#adeg_adeg"/>
+  <hasGerakan rdf:resource="#selut_capang"/>
+  <hasGerakan rdf:resource="#galeong_jedag"/>
+  <hasGerakan rdf:resource="#selut_jambret"/>
+  <hasGerakan rdf:resource="#kanan_tarik"/>
+  <hasGerakan rdf:resource="#kiri_tarik"/>
+  <hasGerakan rdf:resource="#cindek"/>
+  <hasGerakan rdf:resource="#jalak_pengkor_kiri"/>
+  <hasGerakan rdf:resource="#tumpang_tali"/>
+  <hasGerakan rdf:resource="#jalak_pengkor_kanan"/>
+  <hasGerakan rdf:resource="#obah_bahu"/>
+  <hasGerakan rdf:resource="#ranggah_kanan_kiri"/>
+  <hasGerakan rdf:resource="#sembah"/>
+</Tarian>
+
+<Gerakan rdf:about="#adeg_adeg">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <hasNextStep1 rdf:resource="#selut_capang"/>
+  <jenis_gerakan rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kaki</jenis_gerakan>
+  <deskripsi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sikap kaki direnggangkan merendah, telapak kaki menghadap serong</deskripsi>
+  <dari_sampai_waktu_ke rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0:00:05-0:00:12</dari_sampai_waktu_ke>
+  <contoh_gambar rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://drive.google.com/file/d/1c1zFIwgjexbBIGBYYsrEUVBTzwg4Wsi_/view</contoh_gambar>
+</Gerakan>
+
+<Gerakan rdf:about="#selut_capang">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <hasNextStep2 rdf:resource="#galeong_jedag"/>
+  <hasNextStep11 rdf:resource="#galeong_jedag"/>
+  <hasNextStep23 rdf:resource="#galeong_jedag"/>
+  <hasNextStep37 rdf:resource="#galeong_jedag"/>
+  <hasNextStep51 rdf:resource="#galeong_jedag"/>
+  <hasNextStep60 rdf:resource="#galeong_jedag"/>
+  <jenis_gerakan rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tangan</jenis_gerakan>
+  <deskripsi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">gerakan membuka kedua tangan kemudian menutup kedua tangan dengan posisi kedua telapak tangan menyilang tepat di arah depan dada</deskripsi>
+  <dari_sampai_waktu_ke rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0:00:13-0:00:15, 0:00:43-0:00:44, 0:01:41-0:01:43, 0:02:39-0:02:41, 0:04:30-0:04:31, 0:05:26-0:05:27</dari_sampai_waktu_ke>
+  <contoh_gambar rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://drive.google.com/file/d/1n-YcqwQKG2EZHGjNwPgc5-Lzc44gRilZ/view</contoh_gambar>
+</Gerakan>
+
+<Gerakan rdf:about="#galeong_jedag">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <hasNextStep3 rdf:resource="#jalak_pengkor_kanan"/>
+  <hasNextStep5 rdf:resource="#selut_jambret"/>
+  <hasNextStep10 rdf:resource="#selut_capang"/>
+  <hasNextStep12 rdf:resource="#jalak_pengkor_kiri"/>
+  <hasNextStep14 rdf:resource="#selut_jambret"/>
+  <hasNextStep19 rdf:resource="#tumpang_tali"/>
+  <hasNextStep22 rdf:resource="#selut_capang"/>
+  <hasNextStep24 rdf:resource="#jalak_pengkor_kiri"/>
+  <hasNextStep26 rdf:resource="#selut_jambret"/>
+  <hasNextStep31 rdf:resource="#tumpang_tali"/>
+  <hasNextStep36 rdf:resource="#selut_capang"/>
+  <hasNextStep38 rdf:resource="#jalak_pengkor_kiri"/>
+  <hasNextStep40 rdf:resource="#selut_jambret"/>
+  <hasNextStep45 rdf:resource="#obah_bahu"/>
+  <hasNextStep49 rdf:resource="#ranggah_kanan_kiri"/>
+  <hasNextStep52 rdf:resource="#jalak_pengkor_kiri"/>
+  <hasNextStep54 rdf:resource="#selut_jambret"/>
+  <hasNextStep59 rdf:resource="#selut_capang"/>
+  <hasNextStep61 rdf:resource="#jalak_pengkor_kiri"/>
+  <hasNextStep63 rdf:resource="#selut_jambret"/>
+  <hasNextStep68 rdf:resource="#obah_bahu"/>
+  <jenis_gerakan rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kombinasi(kepala dan bahu)</jenis_gerakan>
+  <deskripsi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">gerakan memutarkan kepala dan bahu dihentakan ke atas dan ke belakang</deskripsi>
+  <dari_sampai_waktu_ke rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0:00:16-0:00:19, 0:00:24-0:00:28, 0:00:38-0:00:41, 0:00:46-0:00:49, 0:00:54-0:00:57, 0:01:07-0:01:09, 0:01:38-0:01:41, 0:01:44-0:01:48, 0:01:52-0:01:56, 0:02:06-0:02:08, 0:02:34-0:02:37, 0:02:42-0:02:45, 0:02:49-0:02:52, 0:03:03-0:03:04, 0:04:00-0:04:02, 0:04:32-0:04:35, 0:04:39-0:04:42, 0:04:54-0:04:55, 0:05:28-0:05:32, 0:05:35-0:05:39, 0:05:49-0:05:50</dari_sampai_waktu_ke>
+  <contoh_gambar rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://drive.google.com/file/d/1PcU5fyaq_uTgvWdIGrJgHC9A1tHYkNOp/view, https://drive.google.com/file/d/1MpF_Y0hUIlKNzSZYARGdgM3Yt9Kf5iS0/view, https://drive.google.com/file/d/1C6E3l2cEcFZksUVissBmXTNooSZX2zAn/view</contoh_gambar>
+</Gerakan>
+
+<Gerakan rdf:about="#selut_jambret">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <hasNextStep6 rdf:resource="#kanan_tarik"/>
+  <hasNextStep15 rdf:resource="#kiri_tarik"/>
+  <hasNextStep27 rdf:resource="#kiri_tarik"/>
+  <hasNextStep34 rdf:resource="#obah_bahu"/>
+  <hasNextStep41 rdf:resource="#kiri_tarik"/>
+  <hasNextStep55 rdf:resource="#kiri_tarik"/>
+  <hasNextStep64 rdf:resource="#kiri_tarik"/>
+  <jenis_gerakan rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tangan</jenis_gerakan>
+  <deskripsi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">gerakan tangan kanan dan kiri yang digerakan ke depan dengan cara bergantian(seperti gerakan silat)</deskripsi>
+  <dari_sampai_waktu_ke rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0:00:29-0:00:30, 0:00:58-0:00:59, 0:01:57-0:01:58, 0:02:27-0:02:31, 0:02:53-0:02:54, 0:04:43-0:04:44, 0:05:40-0:05:41</dari_sampai_waktu_ke>
+  <contoh_gambar rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://drive.google.com/file/d/1tngcyV9eWc241ea3w5E8XIbN193en0bm/view</contoh_gambar>
+</Gerakan>
+
+<Gerakan rdf:about="#kanan_tarik">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <hasNextStep7 rdf:resource="#kiri_tarik"/>
+  <hasNextStep17 rdf:resource="#cindek"/>
+  <hasNextStep29 rdf:resource="#obah_bahu"/>
+  <hasNextStep43 rdf:resource="#cindek"/>
+  <hasNextStep57 rdf:resource="#cindek"/>
+  <hasNextStep66 rdf:resource="#cindek"/>
+  <jenis_gerakan rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kaki</jenis_gerakan>
+  <deskripsi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">gerakan kaki yang ditarik dari arah kanan</deskripsi>
+  <dari_sampai_waktu_ke rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0:00:30-0:00:31, 0:01:00-0:01:02, 0:02:00-0:02:01, 0:02:56-0:02:57, 0:04:47-0:04:48, 0:05:43-0:05:44</dari_sampai_waktu_ke>
+  <contoh_gambar rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://drive.google.com/file/d/16daUUTzdqoWV572r4c2bJ8sN7P553ooQ/view, https://drive.google.com/file/d/1DYAHx7yvW3ya0-T8Y1c5-cagYJ6pc5s5/view</contoh_gambar>
+</Gerakan>
+
+<Gerakan rdf:about="#kiri_tarik">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <hasNextStep8 rdf:resource="#cindek"/>
+  <hasNextStep16 rdf:resource="#kanan_tarik"/>
+  <hasNextStep28 rdf:resource="#kanan_tarik"/>
+  <hasNextStep42 rdf:resource="#kanan_tarik"/>
+  <hasNextStep56 rdf:resource="#kanan_tarik"/>
+  <hasNextStep65 rdf:resource="#kanan_tarik"/>
+  <jenis_gerakan rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kaki</jenis_gerakan>
+  <deskripsi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">gerakan kaki yang ditarik dari arah kiri</deskripsi>
+  <dari_sampai_waktu_ke rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0:00:31-0:00:33, 0:00:60-0:01:00, 0:01:58-0:01:59, 0:02:55-0:02:56, 0:04:45-0:04:46, 0:05:41-0:05:42</dari_sampai_waktu_ke>
+  <contoh_gambar rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://drive.google.com/file/d/1yW0X0UfR0tpcDN8SzakhunT7Mcy3t19H/view, https://drive.google.com/file/d/1Z0uUOsuGEgTwfFXse1KJUMJL1ZCK3os2/view</contoh_gambar>
+</Gerakan>
+
+<Gerakan rdf:about="#cindek">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <hasNextStep9 rdf:resource="#galeong_jedag"/>
+  <hasNextStep18 rdf:resource="#galeong_jedag"/>
+  <hasNextStep44 rdf:resource="#galeong_jedag"/>
+  <hasNextStep58 rdf:resource="#galeong_jedag"/>
+  <hasNextStep67 rdf:resource="#galeong_jedag"/>
+  <jenis_gerakan rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kaki</jenis_gerakan>
+  <deskripsi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sikap kaki adeg-adeg kembar, gerak rengkuh satu sebagai tanda koma pergantian ke gerak selanjutnya</deskripsi>
+  <dari_sampai_waktu_ke rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0:00:31-0:00:33, 0:00:60-0:01:00, 0:01:58-0:01:59, 0:02:55-0:02:56, 0:04:45-0:04:46, 0:05:41-0:05:42</dari_sampai_waktu_ke>
+  <contoh_gambar rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://drive.google.com/file/d/17YPAag2bp3AdKyuXoFmUy6b9S33KjxFY/view</contoh_gambar>
+</Gerakan>
+
+<Gerakan rdf:about="#jalak_pengkor_kiri">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <hasNextStep13 rdf:resource="#galeong_jedag"/>
+  <hasNextStep25 rdf:resource="#galeong_jedag"/>
+  <hasNextStep39 rdf:resource="#galeong_jedag"/>
+  <hasNextStep53 rdf:resource="#galeong_jedag"/>
+  <hasNextStep62 rdf:resource="#galeong_jedag"/>
+  <jenis_gerakan rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kombinasi(kaki dan tangan)</jenis_gerakan>
+  <deskripsi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">gerakan kaki terpatah-patah ke arah kiri</deskripsi>
+  <dari_sampai_waktu_ke rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0:00:50-0:00:53, 0:01:49-0:01:51, 0:02:46-0:02:48, 0:04:36-0:04:39, 0:05:33-0:05:34</dari_sampai_waktu_ke>
+  <contoh_gambar rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://drive.google.com/file/d/1qG2qDP_Ag-5tyPlyzchKIHNqPGdfq9_H/view, https://drive.google.com/file/d/1SQGS7OJw5-cpXl9MSWIdAUrP65i07DCt/view</contoh_gambar>
+</Gerakan>
+
+<Gerakan rdf:about="#tumpang_tali">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <hasNextStep20 rdf:resource="#jalak_pengkor_kanan"/>
+  <hasNextStep32 rdf:resource="#obah_bahu"/>
+  <jenis_gerakan rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tangan</jenis_gerakan>
+  <deskripsi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">gerakan kedua tangan ke depan, menyilang dengan posisi tangan kanan tertumpang/berada di atas tangan kanan dengan jari-jari ke arah bawah, lalu tangan kiri lurus ke atas dengan posisi ibu jari ditekuk</deskripsi>
+  <dari_sampai_waktu_ke rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0:01:10-0:01:11, 0:02:09-0:02:10</dari_sampai_waktu_ke>
+  <contoh_gambar rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://drive.google.com/file/d/1lzPjJoSeMDOjwjHX75dPwIyQ5Mls_4Ih/view</contoh_gambar>
+</Gerakan>
+
+<Gerakan rdf:about="#jalak_pengkor_kanan">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <hasNextStep4 rdf:resource="#galeong_jedag"/>
+  <hasNextStep21 rdf:resource="#galeong_jedag"/>
+  <jenis_gerakan rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kombinasi(kaki dan tangan)</jenis_gerakan>
+  <deskripsi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">gerakan kaki terpatah-patah ke arah kanan</deskripsi>
+  <dari_sampai_waktu_ke rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0:00:20-0:00:23, 0:01:34-0:01:37</dari_sampai_waktu_ke>
+  <contoh_gambar rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://drive.google.com/file/d/17qN2e3CUgY44_vJLvexyuSIYweE1Cp8k/view, https://drive.google.com/file/d/1iyIy9-ngjjsGxlMCIZKcUXZmtuNdlAeA/view</contoh_gambar>
+</Gerakan>
+
+<Gerakan rdf:about="#obah_bahu">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <hasNextStep30 rdf:resource="#galeong_jedag"/>
+  <hasNextStep33 rdf:resource="#selut_jambret"/>
+  <hasNextStep35 rdf:resource="#galeong_jedag"/>
+  <hasNextStep46 rdf:resource="#ranggah_kanan_kiri"/>
+  <hasNextStep48 rdf:resource="#galeong_jedag"/>
+  <hasNextStep69 rdf:resource="#sembah"/>
+  <jenis_gerakan rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bahu</jenis_gerakan>
+  <deskripsi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">menggerakkan bahu ke atas dan ke bawah secara bergantian bahu kanan dan bahu kiri</deskripsi>
+  <dari_sampai_waktu_ke rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0:02:03-0:02:05, 0:02:13-0:02:14, 0:02:32-0:02:33, 0:03:04-0:03:06, 0:03:58-0:03:59, 0:05:51-0:05:52</dari_sampai_waktu_ke>
+  <contoh_gambar rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://drive.google.com/file/d/1H2GzDzilyk6IL-yWDy7x-Dk9IvJ4pooO/view, https://drive.google.com/file/d/1hr_TKaYiI_THkxb1vAGGyaNB1ulL90Dv/view</contoh_gambar>
+</Gerakan>
+
+<Gerakan rdf:about="#ranggah_kanan_kiri">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <hasNextStep47 rdf:resource="#obah_bahu"/>
+  <hasNextStep50 rdf:resource="#selut_capang"/>
+  <jenis_gerakan rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tangan</jenis_gerakan>
+  <deskripsi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">kedua tangan diangkat ke atas dan kedua telapak tangan terbuka ke atas, lalu kedua tangan diturunkan sampai ke atas bahu dengan badan menghadap kanan dan kiri secara bergantian</deskripsi>
+  <dari_sampai_waktu_ke rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0:03:25-0:03:28, 0:04:20-0:04:23</dari_sampai_waktu_ke>
+  <contoh_gambar rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://drive.google.com/file/d/1GqYZ_hie369JBIsdglFmf1NzocyEUoaq/view, https://drive.google.com/file/d/1nOUmtC2VNRi2pDCDd-0tIWMjzNgC30v0/view, https://drive.google.com/file/d/1OMw3CWWPjHImdW5qX7vEn6F5N0A9RVWM/view, https://drive.google.com/file/d/14Hi_WwEhHoydHFw5Y6WJQltiPyDpkcUB/view</contoh_gambar>
+</Gerakan>
+
+<Gerakan rdf:about="#sembah">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <jenis_gerakan rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tangan</jenis_gerakan>
+  <deskripsi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">kedua telapak tangan dirapatkan seperti menyembah tepat didepan dada dan hidung</deskripsi>
+  <dari_sampai_waktu_ke rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0:06:20-0:06:24</dari_sampai_waktu_ke>
+  <contoh_gambar rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://drive.google.com/file/d/1P-gSla7-ofWGT97qeXY21ApKG-aL4ecV/view</contoh_gambar>
+</Gerakan>
+
+
+</rdf:RDF>
